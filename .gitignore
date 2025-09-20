@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# SQLite db + backups
+data/
+*.sqlite
+*.sqlite-journal
+*.db
+*.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
